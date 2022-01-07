@@ -2,7 +2,7 @@ package a7;
 
 import java.util.Scanner;
 
-public class t1 {
+public class textlong3 {
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner in = new Scanner(System.in);
